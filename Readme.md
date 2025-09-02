@@ -13,13 +13,14 @@ This project is a simple **Rust Actix Web server** that demonstrates how to:
 
 ## Project Structure
 
-````
 
-```bash
+
+``` bash
 src/
 ├── main.rs # Entry point of the Actix Web server
 Cargo.toml # Project dependencies and metadata
 README.md  # Project documentation
+
 ````
 
 ## Prerequisites
@@ -31,10 +32,10 @@ README.md  # Project documentation
 
 ### 1. Clone the Repository
 
-````bash
+```bash
 git clone https://github.com/your-username/actix-web-server.git
 cd actix-web-server
-
+```
 
 Run the Server
 
